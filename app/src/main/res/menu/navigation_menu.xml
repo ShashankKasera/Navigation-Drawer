@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/nav_settinh"
+        android:title="My account "
+        android:icon="@drawable/myaccount"></item>
+
+    <item android:id="@+id/nav_account"
+        android:title="Setting "
+        android:icon="@drawable/setting">
+    </item>
+
+    <item android:id="@+id/nav_log_out"
+        android:title="Log out "
+        android:icon="@drawable/logout"></item>
+
+</menu>
